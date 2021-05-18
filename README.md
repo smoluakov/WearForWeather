@@ -4,4 +4,6 @@
 **The bot that will tell you the weather outside and what to wear to avoid freezing/frying/getting wet.**
 **The bot is hosted on a free HEROKU server, so it is only active 18 days a month**
 
-At the beginning, you need to specify your country and city, after which you will receive a detailed answer about the weather and the probability of precipitation for the next 2 hours. Sample response: <a href="https://ibb.co/jDgcQJj"><img src="https://i.ibb.co/jDgcQJj/2021-05-18-18-56-59.png" alt="2021-05-18-18-56-59" border="0"></a>
+At the beginning, you need to specify your country and city, after which you will receive a detailed answer about the weather and the probability of precipitation for the next 2 hours. Sample response:
+
+<a href="https://ibb.co/jDgcQJj"><img src="https://i.ibb.co/jDgcQJj/2021-05-18-18-56-59.png" alt="2021-05-18-18-56-59" border="0"></a>
