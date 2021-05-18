@@ -6,4 +6,4 @@
 
 At the beginning, you need to specify your country and city, after which you will receive a detailed answer about the weather and the probability of precipitation for the next 2 hours. Sample response:
 
-<a href="https://ibb.co/jDgcQJj"><img src="https://i.ibb.co/jDgcQJj/2021-05-18-18-56-59.png" alt="2021-05-18-18-56-59" border="0"></a>
+<a href="https://ibb.co/58GbgZc"><img src="https://i.ibb.co/T8Y9xyh/2021-05-18-19-02-30.png" alt="2021-05-18-19-02-30" border="0"></a>
